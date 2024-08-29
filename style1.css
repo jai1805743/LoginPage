@@ -1,0 +1,38 @@
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+    padding:0;
+}
+h2{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.first{
+    text-align:center;
+    border: 3px;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    height: 200px;
+    padding-top: 50px;
+    width:500px;
+    margin: 50px;
+    margin-left: 30%;
+    background-color:hwb(305 35% 20%);
+    font-size: 20px;
+    font-style: italic;
+    border-radius: 30px;
+    
+    }
+.two{
+    text-align: center;
+    margin-top: 135px;
+    font-size: 20px;
+    background-color: green;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+
+}
